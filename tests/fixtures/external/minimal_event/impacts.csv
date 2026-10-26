@@ -1,0 +1,13 @@
+zone_id,impact_score,impact_type
+SZ_FT_CBD,0.738,waterlogging_index
+SZ_NS_TECH,0.675,waterlogging_index
+SZ_NS_QH,0.81,waterlogging_index
+SZ_NS_SK,0.792,waterlogging_index
+SZ_LH_COMM,0.855,waterlogging_index
+SZ_BA_CTR,0.72,waterlogging_index
+SZ_LG_BT,0.63,waterlogging_index
+SZ_LH_RES,0.702,waterlogging_index
+SZ_YT_PORT,0.765,waterlogging_index
+SZ_GM_SCI,0.585,waterlogging_index
+SZ_PS_IND,0.54,waterlogging_index
+SZ_DP_ECO,0.828,waterlogging_index

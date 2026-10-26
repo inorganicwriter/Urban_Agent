@@ -1,0 +1,16 @@
+{
+  "event_id": "SZ_20230907_HAIKUI_SYNTHETIC_DEMO",
+  "data_kind": "synthetic",
+  "source_name": "Synthetic Demonstration Dataset (Unverified Demo)",
+  "license": "CC0-1.0 (Public Domain)",
+  "accessed_date": "2026-10-18",
+  "time_range": "2023-09-06T18:00:00+08:00 to 2023-09-10T17:00:00+08:00",
+  "checksums": {
+    "event.json": "4ebd37b9898f74efe42759a701134194b804a6d3a477758fc326cb04c300f887",
+    "zones.csv": "e44fb26c4795899684fd67e05bd788efc51d02608c4c633b42f9de805abc6a42",
+    "activity.csv": "6b8d1c92545395ee2e6717706c395ec9b46d9a2a10b66229712ae4343ccd6b4f",
+    "impacts.csv": "ca95c7511244aa3ab8a67a728a5112b3c1fb69edd06c49e45720c1ec9290889e"
+  },
+  "provenance_status": "unverified",
+  "retrieved_at": "2026-10-18T00:00:00+08:00"
+}

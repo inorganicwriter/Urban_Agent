@@ -1,0 +1,16 @@
+{
+  "event_id": "SZ_20230907_MINIMAL_FIXTURE",
+  "data_kind": "fixture",
+  "provenance_status": "unverified",
+  "source_name": "Synthetic Fixture for Verification & Dry-Run Pipeline Testing",
+  "license": "CC0-1.0 (Public Domain)",
+  "accessed_date": "2026-10-18",
+  "retrieved_at": "2026-10-18T00:00:00+08:00",
+  "time_range": "2023-09-07T00:00:00+08:00 to 2023-09-08T23:00:00+08:00",
+  "checksums": {
+    "event.json": "8b9e608e57e573e85fd7266b83cbe48ed73ec22fd88a67be06b571795bfcc469",
+    "zones.csv": "e44fb26c4795899684fd67e05bd788efc51d02608c4c633b42f9de805abc6a42",
+    "activity.csv": "27746e667e9311f3f80dc45ec25145d813701decbb5ad0025668130cc921c8f6",
+    "impacts.csv": "e79da8ecb2cdc9fda4df29a8d2d6f15b1b3bea00da73e61370f72e88dfbff971"
+  }
+}

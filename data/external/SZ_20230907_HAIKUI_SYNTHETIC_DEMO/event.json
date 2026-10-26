@@ -1,0 +1,19 @@
+{
+  "event_id": "SZ_20230907_HAIKUI_SYNTHETIC_DEMO",
+  "city_name": "Shenzhen",
+  "hazard_type": "rainstorm",
+  "start_time": "2023-09-07T18:00:00+08:00",
+  "end_time": "2023-09-08T12:00:00+08:00",
+  "forecast_available_time": "2023-09-07T06:00:00+08:00",
+  "lead_time_hours": 12,
+  "duration_hours": 18,
+  "total_hours": 96,
+  "event_start_hour": 24,
+  "peak_intensity": 0.95,
+  "hazard_distribution": null,
+  "forecast_source": "深圳市气象台历史灾害合成演示序列 (Synthetic Demo)",
+  "role": "test",
+  "data_kind": "synthetic",
+  "input_mode": "observed_hindcast",
+  "provenance_status": "unverified"
+}

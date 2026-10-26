@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+
+# Generated runtime artifacts
+/outputs/
+*.joblib
+*.pt
+*.log
+*.jsonl
+
+# Local configuration / secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.secret
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/

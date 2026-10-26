@@ -1,0 +1,13 @@
+zone_id,impact_score,impact_type
+SZ_LH_COMM,0.96,inundation_and_subway_flooding
+SZ_LG_BT,0.88,river_overflow_urban_waterlogging
+SZ_NS_SK,0.84,coastal_surge_drainage_block
+SZ_FT_CBD,0.8,underpass_and_basement_backflow
+SZ_LH_RES,0.78,transit_hub_disruption
+SZ_NS_QH,0.76,lowland_waterlogging
+SZ_BA_CTR,0.72,arterial_road_ponding
+SZ_YT_PORT,0.7,mountain_slope_runoff
+SZ_DP_ECO,0.68,coastal_corridor_interruption
+SZ_NS_TECH,0.62,campus_ponding_and_remote_work
+SZ_GM_SCI,0.44,localized_drainage_stress
+SZ_PS_IND,0.4,localized_industrial_ponding
